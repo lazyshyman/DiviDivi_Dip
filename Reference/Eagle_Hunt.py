@@ -350,6 +350,5 @@ while cap.isOpened():
         if event.type == pygame.QUIT:
             sys.exit()
 
-
     if cv2.waitKey(1) == ord('q'):
         break
