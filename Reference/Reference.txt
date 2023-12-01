@@ -10,6 +10,9 @@ https://youtu.be/pNyrTNv0-bg?si=b8HGGV_k5Rssur8W
 https://www.facebook.com/photo/?fbid=2053277601610702&set=pcb.2053274008277728
 의 이미지를 컴퓨터가 결정한 이미지로 사용
 
+<a href="https://www.flaticon.com/kr/free-icons/-" title="뒤로 버튼 아이콘">뒤로 버튼 아이콘  제작자: Chayanid Jirawattana - Flaticon</a>
+의 이미지를 back_button으로 사용
+
 https://github.com/kairess/Rock-Paper-Scissors-Machine
 의 가위바위보 인식을 활용하여 총쏘는 손모양을 가위 주먹을 바위로 인식하도록 바꿈
 (single.py 의 코드를 활용)
