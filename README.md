@@ -28,7 +28,7 @@ pip install pygame
 ```
 ## 어플리케이션 시작
 
-필요한 모듈을 pip을 통해 모두 다운로드 받았다면 다음 코를 실해앟여 DiviDivi Dip을 실행합니다.
+필요한 모듈을 pip을 통해 모두 다운로드 받았다면 다음 코드를 실행하여 DiviDivi Dip을 실행합니다.
 ```python
 python dividividip.py
 ```
