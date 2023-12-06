@@ -37,7 +37,8 @@ DiviDivi_Dip을 모르는 사람을 위해 먼저 설명하자면 2000년대 예
 ![ones_example](https://github.com/lazyshyman/DiviDivi_Dip/assets/125116906/f9056b0b-fbed-44b2-b669-f8a79dfa625e)
 ![rocks_example](https://github.com/lazyshyman/DiviDivi_Dip/assets/125116906/e5b7f80d-b0fc-48ea-9ec4-db4b4c89647e)
 ![wings_example](https://github.com/lazyshyman/DiviDivi_Dip/assets/125116906/5d70c66c-c7c2-437d-9649-11c4182bb9af)
-위의 3가지 동작이 있고 컴퓨터가 선택하는 모양과 플레이어의 동작이 같지 않을 때까지 진행하는 게임으로 최대한 오래 버티는 것을 목표로 하는 게임이다.
+
+위의 각각 3가지 동작들(순서대로 one, rock, wing이라고 지칭)이 있고 컴퓨터가 선택하는 모양과 플레이어의 동작이 같지 않을 때까지 진행하는 게임으로 최대한 오래 버티는 것을 목표로 하는 게임이다.
 
 ### 게임 시작
 
