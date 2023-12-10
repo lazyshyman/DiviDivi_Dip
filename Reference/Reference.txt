@@ -1,5 +1,5 @@
 https://github.com/dustnehowl/OpenSource_TermProject
-의 모든코드 및 readme.md, reference들을 참고하여 전체적인 게임의 틀을 만듬
+의 오픈소스들을 참고허요 개암제작에 활용
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edaily.co.kr%2Fnews%2Fread%3FnewsId%3D01738406579813168%26mediaCodeNo%3D257&psig=AOvVaw0hzPtCtWl78laAJJC8_yrf&ust=1701443991821000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODZ7_eC7IIDFQAAAAAdAAAAABAE
 의 이미지를 게임시작배경으로 사용
@@ -14,5 +14,5 @@ https://www.facebook.com/photo/?fbid=2053277601610702&set=pcb.2053274008277728
 의 이미지를 back_button으로 사용
 
 https://github.com/kairess/Rock-Paper-Scissors-Machine
-의 가위바위보 인식을 활용하여 총쏘는 손모양을 가위 주먹을 바위로 인식하도록 바꿈
+의 가위바위보 인식을 활용하여 디비디비딥 손 모양 인식하게 함
 (single.py 의 코드를 활용)
